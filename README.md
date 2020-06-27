@@ -4,7 +4,7 @@ Supervised discretization is one of basic data preprocessing techniques used in 
 
 # Manuscript - Soft Computing
 
-Pattern Recognition
+https://link.springer.com/article/10.1007/s00500-014-1488-1
 
 # Citing ur-CAIM
 
